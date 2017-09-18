@@ -14,7 +14,7 @@ def Loop(moneyDecimal):
             if(money < 1):
                 print("Never mind.")
                 isComplete = True
-        if(letBorrowString.lower() == "yes"):
+        elif(letBorrowString.lower() == "yes"):
             isComplete = True
             print("Thank you for letting me borrow ${:0,.2f}".format(money) + "!")
         else:
