@@ -1,5 +1,5 @@
 # PythonHomework
-Python Assignments for Cuesta College 
+Python Assignments for Cuesta College (CIS 237)
 
 1) A Friend in Need
 2) A Friend in Need Loop
