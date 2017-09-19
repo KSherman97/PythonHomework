@@ -26,6 +26,7 @@ def mainMenu():
                 break
         except ValueError:
             print("That's not an option")
+            break
 
 def display (d):
     print()
